@@ -2,5 +2,5 @@
 
 ## Writing good documentation
 
-### Code Blocks
+### 1. Code Blocks
 ``` this is a code block ```
